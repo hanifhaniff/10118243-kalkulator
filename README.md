@@ -2,9 +2,10 @@
 <table>
   <tr>
     <th>Nama
-    <th>NIM
-    <th>Kelas
-  <tr>
     <th>Abdul Hanif Bonsani
+  <tr>
+    <th>NIM
     <th>10118243
+  <tr>
+    <th>Kelas
     <th>IF-6
