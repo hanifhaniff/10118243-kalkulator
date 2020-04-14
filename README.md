@@ -1,4 +1,10 @@
 # 10118243-kalkulator
-Nama  : Abdul Hanif Bonsani <br>
-NIM   : 10118243 <br>
-Kelas : IF-6
+<table>
+  <tr>
+    <th>Nama
+    <th>NIM
+    <th>Kelas
+  <tr>
+    <th>Abdul Hanif Bonsani
+    <th>10118243
+    <th>IF-6
